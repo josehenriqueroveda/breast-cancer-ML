@@ -1,6 +1,6 @@
 # Step-by-step: Breast cancer machine learning
 
-> How to use supervised learning in the task of identify if is a benign of maleficent breast cancer
+> How to use supervised learning in the task of identify if is a benign or malignant breast cancer
 
 ## What Is Breast Cancer?
 
