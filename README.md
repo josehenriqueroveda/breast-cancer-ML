@@ -16,6 +16,7 @@ Hello, in this notebook I'm going to show you how to use supervised learning in 
 
 ![](https://miro.medium.com/max/3870/1*eE8DP4biqtaIK3aIy1S2zA.png)
 
-## Me
+### About:
 
-- Find me on [LinkedIn](https://www.linkedin.com/in/jhroveda/)
+> - 💻 **José Henrique Roveda**
+> - 📨 Contact me on [LinkedIn](https://www.linkedin.com/in/jhroveda/)
